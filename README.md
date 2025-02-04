@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7308e998-a990-43b9-8141-b8d17c3e9065)# **Canlılar Savaşı Simülasyonu**
+# **Canlılar Savaşı Simülasyonu**
 
 **Sümeyye Karataş**  
 B221210005 – 1.Öğretim B Grubu  
