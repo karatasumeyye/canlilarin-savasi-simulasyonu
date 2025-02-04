@@ -1,4 +1,4 @@
-# **Canlılar Savaşı Simülasyonu**
+![image](https://github.com/user-attachments/assets/7308e998-a990-43b9-8141-b8d17c3e9065)# **Canlılar Savaşı Simülasyonu**
 
 **Sümeyye Karataş**  
 B221210005 – 1.Öğretim B Grubu  
@@ -35,8 +35,7 @@ Canlı türlerinin savaşması için matris üzerinde iç içe döngüler kullan
 
 ### **Algoritma Akış Şeması**
 
- ![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/78d04133-f8d2-468f-8d62-a394cff1b197)
 
 ### **Sınıflar ve Açıklamaları**
 
